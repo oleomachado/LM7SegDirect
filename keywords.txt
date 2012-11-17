@@ -1,0 +1,6 @@
+LM7SegDirect 		KEYWORD1
+
+valueWrite		KEYWORD2
+defineDigits		KEYWORD2
+digitWrite		KEYWORD2
+valueWrite		KEYWORD2
